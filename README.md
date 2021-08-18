@@ -1,4 +1,4 @@
-# node-test
+# blockchain-provider-test
 Compares the response time between two blockchain providers via their websocket, in this case AWS and Alchemy. 
 
 Made this repo to send to Alchemy to figure out how we can make it faster. 
